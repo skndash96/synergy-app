@@ -6,8 +6,11 @@ node_modules/
 # Expo
 .expo/
 dist/
+android/
+ios/
 web-build/
 expo-env.d.ts
+google-services.json
 
 # Native
 *.orig.*
